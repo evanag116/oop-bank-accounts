@@ -34,9 +34,9 @@ class Account(Bank):
         return self.balance
 
 
-test = Account(1212,1235667,"1999-03-27 11:30:09 -0800")
+# test = Account(1212,1235667,"1999-03-27 11:30:09 -0800")
 
-print(test.owner)
+# print(test.owner)
 
     
         
